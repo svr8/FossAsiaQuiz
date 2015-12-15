@@ -13,3 +13,5 @@ JDK version: 1.7
 2. Run FossAsiaQuiz.jar in the dist folder.
 
 # Screenshots
+
+![alt tag](https://github.com/svr8/FossAsiaQuiz/blob/master/Screenshots/entryScreen.png)
